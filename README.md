@@ -6,7 +6,7 @@ I am Adrian Gil D. De Guzman, but you can call me Adrian. 🌟 (He/Him)
 
 📊 I specialize in Data Science and Analytics and am currently diving deep into Computer Vision and Machine Learning. 🤖📈
 
-🌟 Fun fact: I’m allergic to spicy foods—yes, even mint-flavored toothpaste counts! 😅🌶️❌
+🌟 Fun fact: I’m allergic to spicy foods, even mint-flavored toothpaste counts! 😅🌶️❌
 
 📬 How to reach me:
 ✉️ Email: adrian.deguzman@student.ateneo.edu
